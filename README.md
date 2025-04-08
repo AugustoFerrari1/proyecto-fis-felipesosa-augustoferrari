@@ -1,2 +1,2 @@
-# proyecto-fis-felipesosa-augustoferrari
+# proyecto-fis-felipesosa-augustoferrari-FacundoLorenzoni
 Proyecto de fis
